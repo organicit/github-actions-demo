@@ -1,1 +1,4 @@
-print("Hello, World!")
+"""Demo Python Code"""
+MESSAGE="Hello, World!"
+
+print(MESSAGE)
